@@ -1,0 +1,15 @@
+name: flutter_tailwind_css
+description: A starting point for Dart libraries or applications.
+version: 0.0.1
+
+environment:
+  sdk: ^3.3.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  equatable: ^2.0.5
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.2
