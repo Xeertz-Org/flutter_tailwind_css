@@ -1,6 +1,7 @@
 name: flutter_tailwind_css
-description: A starting point for Dart libraries or applications.
+description: A pure dart implementation around Tailwind CSS.
 version: 0.0.1
+repository: https://github.com/Xeertz-Org/flutter_tailwind_css
 
 environment:
   sdk: ^3.3.1
